@@ -4,7 +4,7 @@
 
 Ever thought of building a sleek website with a WebAssembly CMS? Bartholomew has got you covered! Bartholomew is one of the few projects that is making WASM CMS accessible. With Bartholomew, you can create a website that is fast, scalable, and easy to manage using only Markdown. If you do not know about the commenting system for blog articles called  Hyvor, you have come to the right place. Basically, we will be working on styling and adding other features. Also, we will be using Font Awesome for the footer section. 
 
-Getting Started
+## Getting Started
 
 We are starting out with baby steps. Firstly, ensure you have your Spin CLI installed locally. You can follow the Spin Quickstart guide for learning and practicing how to install the Spin Binary. 
 
