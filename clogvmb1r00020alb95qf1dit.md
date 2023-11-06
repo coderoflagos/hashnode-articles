@@ -4,6 +4,7 @@ seoTitle: "The Shortest Guide To Web Scraping With Apify"
 datePublished: Thu Nov 02 2023 07:39:49 GMT+0000 (Coordinated Universal Time)
 cuid: clogvmb1r00020alb95qf1dit
 slug: the-shortest-guide-to-web-scraping-with-apify
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1699256047792/235f2387-8319-4b66-8b43-e2d41acdc962.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1698909731617/89e1e41a-e006-491f-817a-4a7fc64236c4.png
 tags: python, web-development, apis, web-scraping, apify
 
